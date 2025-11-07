@@ -53,9 +53,6 @@ Fitur utama yang diimplementasikan meliputi:
 <img width="1920" height="1019" alt="image" src="https://github.com/user-attachments/assets/4d9f6f5a-b181-4c58-bb20-3f1642a09302" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b25ab555-05be-4a34-8939-42b0234dbe49" />
 
-> Menambahkan Branding “SMP Mentari” pada Panel Admin  
-<img width="950" height="200" alt="image" src="https://github.com/user-attachments/assets/xxxxxx" />
-
 > Struktur Database (Kegiatan & Siswa)  
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/98f90ef7-733b-49f2-9e3e-72856e7b4583" />
 
